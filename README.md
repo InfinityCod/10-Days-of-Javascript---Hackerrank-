@@ -1,2 +1,2 @@
-# 10-Days-of-Javascript---Hackerrank-
-This repository contains problem solving in javaScript 
+[![MasterHead](https://snyk.io/wp-content/uploads/blog-banner-github-scanning.png)](https://github.com/InfinityCod)
+
